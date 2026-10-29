@@ -16,8 +16,8 @@ const birthdaySettings = {
     "images/chotu2.png",
     "images/mychotu3.jpeg",
     "images/chotu4.png",
-    "images/chotu7.jpeg",
-    "images/chotu6.jpeg"
+    "images/chotu5.jpeg",
+    "images/chotu7.jpeg"
   ]
 };
 
